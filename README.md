@@ -1,4 +1,6 @@
-# Lossengine
+# Deprecated-Lossengine
+
+Deprecated in favor of [SplineHazard](https://github.com/phillyfan1138/SplineHazard).  
 
 ## Description
 
